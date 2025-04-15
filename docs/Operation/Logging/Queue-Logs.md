@@ -49,7 +49,7 @@ These are the events (and associated information) in the queue log:
 
 Queue log options
 -----------------
- 
+
 There are one or more options for queue logging in queues.conf, such as "log_membername_as_agent". See the queues.conf sample file for explanations of those options.
 
 
